@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Gary Parker"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Gary Parker"
 description              : &description "personal description"
